@@ -1,14 +1,23 @@
-# Lab 3 - Enterprise VLAN Network
+# Enterprise VLAN Network with Routing, DHCP, ACL & SSH Security
 
-## Description
-This lab demonstrates an enterprise network using VLANs, routing, DHCP, ACL, and SSH.
+## Project Description
+This project simulates a small enterprise network with multiple departments using VLAN segmentation, inter-VLAN routing, DHCP, ACL security, and SSH remote management.
 
 ## Features
-- VLAN segmentation
-- Router-on-a-stick
-- DHCP configuration
-- ACL security
-- SSH remote access
+- VLAN segmentation for departments
+- Trunk link between switch and router
+- Router-on-a-stick inter-VLAN routing
+- DHCP for automatic IP assignment
+- ACL for traffic control between networks
+- SSH for secure remote management
 
-## Result
-Successfully built and tested a multi-VLAN enterprise network.
+## Technologies Used
+- Cisco Packet Tracer
+- VLAN
+- Routing
+- DHCP
+- ACL
+- SSH
+
+## Conclusion
+This project demonstrates a complete small enterprise network design with security and automation features.
